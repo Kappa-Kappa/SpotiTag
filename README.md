@@ -10,6 +10,12 @@ The script was originally designed for MacOS but should have no issues running o
 
 **This script does NOT download song files. It is only used for metadata.**
 
+
+![spotitag screenshot](images/Example1.png)
+
+![spotitag screenshot2](images/Example2.png)
+
+
 ---
 
 ## What it does
