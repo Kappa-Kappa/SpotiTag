@@ -566,6 +566,9 @@ Try:
 ```bash
 python3 spotitag.py "Song Title" "Artist"
 ```
+### `File does not exist`
+
+Make sure you are correctly using ' or " around file path. See **Usage Mode 1** section above.
 
 ### Album art preview does not show
 
@@ -592,9 +595,6 @@ Then enter:
 ```text
 filename
 ```
-### File does not exist
-
-Make sure you are correctly using ' or " around file path. See **Usage Mode 1** section above.
 
 ---
 
